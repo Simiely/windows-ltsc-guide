@@ -57,3 +57,10 @@ Windows 的 **LTSC（Long-Term Servicing Channel）** 版本是目前最稳定�
 ## 📝 许可
 
 MIT
+
+## 📚 文档索引
+
+| 文档 | 给谁看 | 内容 |
+|---|---|---|
+| [`AGENTS.md`](./AGENTS.md) | AI / 未来的你 | 核心结论（决策树）+ 事实核查要求 |
+| [`CHANGELOG.md`](./CHANGELOG.md) | 所有人 | 版本变更记录 |
