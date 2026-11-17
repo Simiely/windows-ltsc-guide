@@ -1,5 +1,6 @@
 # AGENTS.md · 项目规则
 
+> 📌 **文档基线**：2026-11-17（commit `bfab077`）接入单项目规范机器层（link-only）并补 DEVELOPMENT.md
 > 给 AI / 未来的你：只记文档里看不出的关键信息。
 
 ## 项目是什么
